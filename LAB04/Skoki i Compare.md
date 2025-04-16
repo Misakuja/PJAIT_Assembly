@@ -1,4 +1,4 @@
-[mhyla.com](https://mhyla.com/wia2-4/)
+Credit: [mhyla.com](https://mhyla.com/wia2-4/)
 
 jmp - skok do jakiegoś miejsca w kodzie
 
