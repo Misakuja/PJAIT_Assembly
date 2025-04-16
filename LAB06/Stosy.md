@@ -1,4 +1,4 @@
-[mhyla.com](https://mhyla.com/wia2-6/)
+Credit: [mhyla.com](https://mhyla.com/wia2-6/)
 
 Prefix | Infix | Postfix
 ## Postfix - Odwrotna notacja polska
