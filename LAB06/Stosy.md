@@ -7,9 +7,9 @@ Prefix | Infix | Postfix
 
 ## Stos
 
-![[Stos.png]]
-**LIFO** - Last in, first out
+<img width="470" alt="Stos" src="https://github.com/user-attachments/assets/067e0362-e10b-4f77-ab50-a6d457368cf6" />
 
+**LIFO** - Last in, first out
 
 ---
 
