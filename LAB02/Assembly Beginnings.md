@@ -1,4 +1,4 @@
-[mhyla.com](https://mhyla.com/wia2-2/)
+Credit: [mhyla.com](https://mhyla.com/wia2-2/)
 
 DIR - Directory view
 CD - Change directory
