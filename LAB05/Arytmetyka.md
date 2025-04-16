@@ -1,4 +1,4 @@
-[mhyla.com](https://mhyla.com/wia2-5/)
+Credit: [mhyla.com](https://mhyla.com/wia2-5/)
 
 Setup:
 ```Assembly
