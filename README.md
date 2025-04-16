@@ -1,2 +1,2 @@
-# PJAIT_Assembly
-16bit x86 Assembly written for PJAIT.
+# PJAIT, Semester 3, Assembly
+16bit emulated DOS (x86 Assembly) code written for PJAIT.
